@@ -1,0 +1,55 @@
+# Secrets and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*secret*
+*secrets*
+*credential*
+*credentials*
+*.token
+*token*.json
+cookies.txt
+.npmrc
+.pypirc
+
+# Local / runtime state
+state/
+*.state
+*.state.json
+.local/
+.cache/
+tmp/
+temp/
+*.log
+logs/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~
+
+# Python / Node leftovers if someone adds scripts later
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+dist/
+build/
+
+# Archives that often contain accidental dumps
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# Private exports
+*export*
+*session*dump*
