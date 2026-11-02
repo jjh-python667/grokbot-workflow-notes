@@ -81,3 +81,12 @@
 ## License
 
 MIT — 见 [LICENSE](LICENSE)。说明文字可自由引用；请勿借本仓库名义索要或传播他人私有配置。
+
+<!-- github-learning-navigation -->
+
+## 我的相关学习项目
+
+- [个人学习 Agent](https://github.com/jjh-python667/personal-learning-agent)：我用 Python、DeepSeek API 和官方 QQ 通道搭建的学习原型，注明 AI 辅助开发。
+- [Python 基础学习](https://github.com/jjh-python667/python-learning)：基础练习与学习记录。
+
+本仓库继续作为概念笔记保留，产品功能是否可用以相应平台实际提供的内容为准。
