@@ -53,3 +53,12 @@ build/
 # Private exports
 *export*
 *session*dump*
+
+# Local Cursor agent metadata (may contain machine paths)
+.cursor/
+
+# SSH private keys without a .key extension
+id_rsa
+id_ed25519
+id_ecdsa
+id_dsa
