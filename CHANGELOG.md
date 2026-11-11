@@ -3,26 +3,22 @@
 本文件记录这个笔记仓库里值得注意的文档变更。
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
-This repository has no release tags. Dated headings are documentation passes, not semantic versions.
 
 ## [Unreleased]
 
 ## [2026-11-11]
 
-English: bilingual introduction, table of contents, docs index, cross-links, and this changelog. No new technical claims.
-
 ### Added
 
 - `CHANGELOG.md`，按 Keep a Changelog 记录文档变更。
-- `docs/README.md`，作为 `docs/` 的阅读顺序。
-- README 的英文简介、页内目录，以及仓库结构说明。
+- `docs/README.md`，作为笔记文件索引。
+- README 的中英文简介、页内目录，以及一份阅读顺序表。
 
 ### Changed
 
-- README 集中说明笔记实际覆盖的三篇文档，以及在 GitHub 上或克隆后如何阅读。
 - 三篇笔记顶部使用同一套导航，文中提到的仓库文件改为相对链接。
-- `docs/architecture.md` 的分层说明改为标题，避免角色表打断有序列表。
-- `.gitignore` 增加 `.cursor/` 与无扩展名的 SSH 私钥文件名，减少本机状态被提交的可能。
+- `docs/architecture.md` 的分层说明改为标题，角色表单独成表。
+- `.gitignore` 增加 `.cursor/` 与无扩展名的 SSH 私钥文件名。
 
 ## [2026-11-10]
 
