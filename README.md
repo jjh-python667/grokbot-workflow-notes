@@ -9,7 +9,7 @@
 ## 目录
 
 - [简介](#简介)
-- [English](#english)
+- [Introduction](#introduction)
 - [笔记覆盖的内容](#笔记覆盖的内容)
 - [概念分层](#概念分层)
 - [阅读顺序](#阅读顺序)
@@ -25,7 +25,7 @@
 
 这里没有要运行的程序。阅读顺序见 [下方的表](#阅读顺序)。文件索引在 [docs/README.md](docs/README.md)。
 
-## English
+## Introduction
 
 [jjh-python667](https://github.com/jjh-python667) is a first-year undergraduate student in artificial intelligence; the public portfolio is [jjh-python667.github.io](https://jjh-python667.github.io/). These notes describe continuous conversation, async work, scheduled routines, and a few generic roles in a Cursor Grok Bot setup, and why “harness” here is not the name of one open-source project.
 
