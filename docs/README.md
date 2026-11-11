@@ -8,6 +8,7 @@
 | [architecture.md](architecture.md) | 分层、通用角色名，以及 harness 在本文中的含义 |
 | [async-and-memory.md](async-and-memory.md) | 连续对话、异步任务与定时例程 |
 | [CHANGELOG.md](../CHANGELOG.md) | 文档变更记录 |
+| [LICENSE](../LICENSE) | MIT |
 | [.gitignore](../.gitignore) | 忽略密钥与本地状态 |
 
 阅读顺序在 [说明](../README.md#阅读顺序)。

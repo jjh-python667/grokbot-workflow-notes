@@ -17,6 +17,7 @@
 - [现状](#现状)
 - [下一步](#下一步)
 - [相关项目](#相关项目)
+- [许可](#许可)
 
 ## 简介
 
@@ -115,3 +116,7 @@ cd grokbot-workflow-notes
 - [资讯台 Newsdesk](https://github.com/jjh-python667/newsdesk) · [项目页](https://jjh-python667.github.io/projects/newsdesk.html)：用 Cloudflare Workers 与 D1 做的资讯阅读台。
 - [Python 基础学习](https://github.com/jjh-python667/python-learning)：基础练习与学习记录。
 - [作品集](https://jjh-python667.github.io/)
+
+## 许可
+
+MIT，见 [LICENSE](LICENSE)。说明文字可以引用。请勿借本仓库名义索要或传播他人私有配置。
