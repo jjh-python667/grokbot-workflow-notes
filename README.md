@@ -4,7 +4,7 @@
 
 [jjh-python667](https://github.com/jjh-python667)（工匠）· 人工智能专业大一 · 设计型开发者 · 正在巩固 Python。
 
-作品集在 [jjh-python667.github.io](https://jjh-python667.github.io/)，本笔记有[项目页](https://jjh-python667.github.io/projects/grokbot-workflow-notes.html)。个人域名 jjhbuilds.com 还在备案和部署准备中。计划接下来学习 C、C++、算法和 NumPy。
+作品集在 [jjh-python667.github.io](https://jjh-python667.github.io/)，本笔记有[项目页](https://jjh-python667.github.io/projects/grokbot-workflow-notes.html)。计划接下来学习 C、C++、算法和 NumPy。
 
 ## 目录
 
